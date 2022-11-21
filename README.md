@@ -2,9 +2,11 @@
 Test for MatejSloboda / Dijkstra_map_for_Godot project
 
 Tested on:
-Godot 3.5.1
-Window 11
-Chrome(latest) and Microsoft Edge(latest)
+- Godot 3.5.1
+
+- Window 11
+
+- Chrome(latest) and Microsoft Edge(latest)
 
 How to reproduce:
 1. Create new project and create a parent node
