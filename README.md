@@ -13,6 +13,9 @@ How to reproduce:
 4. select either "cost map" or "direction map" in dialog box
 5. Open developer tools
 
-Error in picture below appears in developer tools
+Error in picture below appears in developer tools: 
+
+"ERROR: Interface does not have a library for the current platform."
+"SCRIPT ERROR: Attempt to call function 'new' in base 'NativeScript' on a null instance." <- i'm assumming this is on dijkstramap = DijkstraMap.new()
 
 ![](/issue.PNG "Issue")
